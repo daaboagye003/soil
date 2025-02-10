@@ -20,7 +20,7 @@ rtl                      : # true, false (default) # turns direction of the page
 title                    : "Welcome to my Page"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Your Name"
+name                     : "About Me"
 description              : "An amazing website."
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
@@ -115,8 +115,8 @@ analytics:
 author:
   name             : "Daniel A. Aboagye"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "PhD Student"
-  location         : "Tokyo"
+  bio              : "PhD Student | Tokyo University of Agriculture and Technology"
+  location         : "Tokyo, Japan"
   email            : daaboagye003@gmail.com
   links:
     - label: "Email"
